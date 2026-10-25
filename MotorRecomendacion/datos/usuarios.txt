@@ -1,0 +1,3 @@
+1 "Administrador" "admin123" 1 0
+2 "Usuario Demo" "demo123" 0 3 "Programacion" "Ciencia ficcion" "Videojuegos"
+3 "Alex" "demo123" 0 2 "Arte" "Marvel"

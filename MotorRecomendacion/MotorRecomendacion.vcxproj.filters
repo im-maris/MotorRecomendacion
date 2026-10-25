@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de codigo">
+      <UniqueIdentifier>{9B4DC394-1A2A-42A5-9B4B-F4C54F0385C0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de cabecera">
+      <UniqueIdentifier>{E21BD9E7-29A7-462D-8268-9AE2F5C1427D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="None">
+      <Filter>Archivos de codigo</Filter>
+    </ClCompile>
+    <ClCompile Include="None">
+      <Filter>Archivos de codigo</Filter>
+    </ClCompile>
+    <ClCompile Include="None">
+      <Filter>Archivos de codigo</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Archivos de codigo</Filter>
+    </ClCompile>
+    <ClCompile Include="ArbolCategorias.cpp">
+      <Filter>Archivos de codigo</Filter>
+    </ClCompile>
+    <ClCompile Include="Grafo.cpp">
+      <Filter>Archivos de codigo</Filter>
+    </ClCompile>
+    <ClCompile Include="GestorPersistencia.cpp">
+      <Filter>Archivos de codigo</Filter>
+    </ClCompile>
+    <ClCompile Include="MatrizDispersa.cpp">
+      <Filter>Archivos de codigo</Filter>
+    </ClCompile>
+    <ClCompile Include="MotorRecomendacion.cpp">
+      <Filter>Archivos de codigo</Filter>
+    </ClCompile>
+    <ClCompile Include="Sistema.cpp">
+      <Filter>Archivos de codigo</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ArbolCategorias.h">
+      <Filter>Archivos de cabecera</Filter>
+    </ClInclude>
+    <ClInclude Include="Entidades.h">
+      <Filter>Archivos de cabecera</Filter>
+    </ClInclude>
+    <ClInclude Include="GestorPersistencia.h">
+      <Filter>Archivos de cabecera</Filter>
+    </ClInclude>
+    <ClInclude Include="Grafo.h">
+      <Filter>Archivos de cabecera</Filter>
+    </ClInclude>
+    <ClInclude Include="HeapMaximo.h">
+      <Filter>Archivos de cabecera</Filter>
+    </ClInclude>
+    <ClInclude Include="ListaTextos.h">
+      <Filter>Archivos de cabecera</Filter>
+    </ClInclude>
+    <ClInclude Include="MatrizDispersa.h">
+      <Filter>Archivos de cabecera</Filter>
+    </ClInclude>
+    <ClInclude Include="MotorRecomendacion.h">
+      <Filter>Archivos de cabecera</Filter>
+    </ClInclude>
+    <ClInclude Include="Sistema.h">
+      <Filter>Archivos de cabecera</Filter>
+    </ClInclude>
+    <ClInclude Include="TablaHash.h">
+      <Filter>Archivos de cabecera</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilidades.h">
+      <Filter>Archivos de cabecera</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de codigo"><UniqueIdentifier>{9B4DC394-1A2A-42A5-9B4B-F4C54F0385C0}</UniqueIdentifier></Filter>
+    <Filter Include="Archivos de cabecera"><UniqueIdentifier>{E21BD9E7-29A7-462D-8268-9AE2F5C1427D}</UniqueIdentifier></Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="None"><Filter>Archivos de codigo</Filter></ClCompile>
+    <ClCompile Include="None"><Filter>Archivos de codigo</Filter></ClCompile>
+    <ClCompile Include="None"><Filter>Archivos de codigo</Filter></ClCompile>
+    <ClCompile Include="None"><Filter>Archivos de codigo</Filter></ClCompile>
+    <ClCompile Include="Pruebas.cpp"><Filter>Archivos de codigo</Filter></ClCompile>
+    <ClCompile Include="..\MotorRecomendacion\ArbolCategorias.cpp"><Filter>Archivos de codigo</Filter></ClCompile>
+    <ClCompile Include="..\MotorRecomendacion\Grafo.cpp"><Filter>Archivos de codigo</Filter></ClCompile>
+    <ClCompile Include="..\MotorRecomendacion\GestorPersistencia.cpp"><Filter>Archivos de codigo</Filter></ClCompile>
+    <ClCompile Include="..\MotorRecomendacion\MatrizDispersa.cpp"><Filter>Archivos de codigo</Filter></ClCompile>
+    <ClCompile Include="..\MotorRecomendacion\MotorRecomendacion.cpp"><Filter>Archivos de codigo</Filter></ClCompile>
+    <ClCompile Include="..\MotorRecomendacion\Sistema.cpp"><Filter>Archivos de codigo</Filter></ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\MotorRecomendacion\ArbolCategorias.h"><Filter>Archivos de cabecera</Filter></ClInclude>
+    <ClInclude Include="..\MotorRecomendacion\Entidades.h"><Filter>Archivos de cabecera</Filter></ClInclude>
+    <ClInclude Include="..\MotorRecomendacion\GestorPersistencia.h"><Filter>Archivos de cabecera</Filter></ClInclude>
+    <ClInclude Include="..\MotorRecomendacion\Grafo.h"><Filter>Archivos de cabecera</Filter></ClInclude>
+    <ClInclude Include="..\MotorRecomendacion\HeapMaximo.h"><Filter>Archivos de cabecera</Filter></ClInclude>
+    <ClInclude Include="..\MotorRecomendacion\ListaTextos.h"><Filter>Archivos de cabecera</Filter></ClInclude>
+    <ClInclude Include="..\MotorRecomendacion\MatrizDispersa.h"><Filter>Archivos de cabecera</Filter></ClInclude>
+    <ClInclude Include="..\MotorRecomendacion\MotorRecomendacion.h"><Filter>Archivos de cabecera</Filter></ClInclude>
+    <ClInclude Include="..\MotorRecomendacion\Sistema.h"><Filter>Archivos de cabecera</Filter></ClInclude>
+    <ClInclude Include="..\MotorRecomendacion\TablaHash.h"><Filter>Archivos de cabecera</Filter></ClInclude>
+    <ClInclude Include="..\MotorRecomendacion\Utilidades.h"><Filter>Archivos de cabecera</Filter></ClInclude>
+  </ItemGroup>
+</Project>
